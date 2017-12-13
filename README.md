@@ -1,4 +1,4 @@
-# Advertisements-in-a-website
+# Machine Learning model for Advertisements in a website
 In this project, a data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. A machine learning model is developed to predict whether the user clicks on an advertisements based off the features of the user.
 This data set contains the following features:
 'Daily Time Spent on Site': consumer time on site in minutes
